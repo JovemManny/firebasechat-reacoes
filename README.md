@@ -68,6 +68,7 @@ timestamp: <firebase.firestore.Timestamp>
 
 👨‍💻 Desenvolvedores
 Emanuel Nunes
+e
 Kaio Rodrigo
 
 ---
