@@ -66,6 +66,23 @@ timestamp: <firebase.firestore.Timestamp>
 
 ---
 
+👨‍💻 Desenvolvedores
+Emanuel Nunes
+Kaio Rodrigo
+
+---
+
+## ✅ Como usar
+
+1. Copie esse conteúdo e substitua o atual `README.md` do seu repositório GitHub.
+2. Faça o commit e push:
+
+git add README.md
+git commit -m "docs: adiciona planejamento completo da funcionalidade de reações"
+git push origin main
+
+---
+
 ## 📁 Estrutura do Projeto
 
 ```bash
@@ -80,7 +97,3 @@ firebasechat-reacoes/
 │   └── firebase.ts
 ├── README.md
 └── ...
-
-👨‍💻 Desenvolvedores
-Emanuel Nunes
-Kaio Rodrigo
